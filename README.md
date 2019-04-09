@@ -1,18 +1,26 @@
 #Helloword
+
 **你好**
-
 *你好啊*
+* sadf
+* asdadg
+- 7894
+  - qw
+  - 165
+Sometimes you want numbered lists:
 
-1
+1. One
+2. Two
+3. Three
 
-2
+Sometimes you want bullet points:
 
-3
+* Start a line with a star
+* Profit!
 
-4
+Alternatively,
 
-*你好
-*你好！
--你好
-  -qw
-  -
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this

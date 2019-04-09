@@ -1,4 +1,4 @@
-#Helloword
+# Helloword
 
 这是一个链接
 www.baidu.com
@@ -20,3 +20,47 @@ www.baidu.com
 # 构建标题
 ## 可以使用1到6个表示几层标题
 `这是一个用法，标记重点，符号为 tab上的键` 
+
+`内联代码用反引号`
+用四个空格缩进（每一行都是）,前面为空行
+
+     if(ture)
+     {
+       int a=0;
+     }
+或两端加入3个反引号,还可以语法高亮
+``` java
+if(ture)
+{
+  int a=0;
+}
+```
+
+-  [x] death 
+-  [x] or not death
+
+# This is an < 你好> tag
+
+斜体  *text*  or  _text_ 
+*This text will be italic*  
+_This will also be italic_
+
+粗体 **text** or __text__
+**This text will be bold**
+__This will also be bold__
+
+联合使用  **there _are_ text** 
+
+_You **can** combine them_
+
+图片的格式
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
+任务列表
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+~~不显示内容可以做备注~~

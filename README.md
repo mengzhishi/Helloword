@@ -1,26 +1,13 @@
 #Helloword
 
-**你好**
-*你好啊*
-* sadf
-* asdadg
-- 7894
-  - qw
-  - 165
-Sometimes you want numbered lists:
+**这是粗体**
+*这是斜体*
+* 这是圆号
+* 文字与符号之间要有空格
+- 这是符号的另一种表示方法
+  - 这是空圆号
+  - 这是空圆号2
+1. 这是序号
+2. 
+3. 
 
-1. One
-2. Two
-3. Three
-
-Sometimes you want bullet points:
-
-* Start a line with a star
-* Profit!
-
-Alternatively,
-
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this

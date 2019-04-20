@@ -63,4 +63,4 @@ Format: ![Alt Text](url)
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
-~~不显示内容可以做备注~~
+~~划掉~~
